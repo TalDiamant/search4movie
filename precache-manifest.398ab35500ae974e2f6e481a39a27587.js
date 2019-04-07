@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/search4movie/static/css/1.29e35fe4.chunk.css"
   },
   {
-    "revision": "3bf28ce5a9c49102613b3cf05ef7cd55",
+    "revision": "67fa5e07b9aa8240f664f66c036d331b",
     "url": "/search4movie/index.html"
   }
 ];
