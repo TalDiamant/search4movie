@@ -1,7 +1,7 @@
 {
   "main.css": "/search4movie/static/css/main.5500fc34.chunk.css",
-  "main.js": "/search4movie/static/js/main.1abe0219.chunk.js",
-  "main.js.map": "/search4movie/static/js/main.1abe0219.chunk.js.map",
+  "main.js": "/search4movie/static/js/main.05d98fd7.chunk.js",
+  "main.js.map": "/search4movie/static/js/main.05d98fd7.chunk.js.map",
   "static/css/1.29e35fe4.chunk.css": "/search4movie/static/css/1.29e35fe4.chunk.css",
   "static/js/1.5debb8e1.chunk.js": "/search4movie/static/js/1.5debb8e1.chunk.js",
   "static/js/1.5debb8e1.chunk.js.map": "/search4movie/static/js/1.5debb8e1.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.29e35fe4.chunk.css.map": "/search4movie/static/css/1.29e35fe4.chunk.css.map",
   "static/css/main.5500fc34.chunk.css.map": "/search4movie/static/css/main.5500fc34.chunk.css.map",
   "index.html": "/search4movie/index.html",
-  "precache-manifest.6131870773348ba8e5b324fc0b346eb8.js": "/search4movie/precache-manifest.6131870773348ba8e5b324fc0b346eb8.js",
+  "precache-manifest.e35aba4fd0b990b71904c9014474e1fe.js": "/search4movie/precache-manifest.e35aba4fd0b990b71904c9014474e1fe.js",
   "service-worker.js": "/search4movie/service-worker.js"
 }
